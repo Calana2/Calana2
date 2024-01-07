@@ -1,4 +1,5 @@
-- 🌱 I’m currently learning web development
+- I’m currently learning web development
+- Cibersecurity student
 - Protoncala@proton.me
 
 <!---
