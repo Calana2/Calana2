@@ -3,11 +3,6 @@
 
 <!-- Big hacker gif -->
 <h1>Hello there, I'm Calaña</h1>
- <div align="center">
-  <img src="https://utfs.io/f/3bed71e1-9ebd-4802-9500-f7752c059536-f498tw.gif" width="600" height="300"/>
- </div>
- </div>
-<br/>
 
 <!-- Tech stack icons -->  
 <h2>Languages and Tools</h2>
@@ -30,6 +25,6 @@
 <!-- Stats -->
 <h2>My Stats</h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Calana2&theme=dark&background=000000)](https://git.io/streak-stats)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2045%20mins-blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calana2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calana2&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
