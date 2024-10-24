@@ -1,30 +1,29 @@
+<h2></h2>
 
+<em>`7H3 8414NC3 837W33N Fr33D0M 4ND 53CUr17Y 15 4 D311C473 0N3`</em>
 
-
-<!-- Big hacker gif -->
-<h1>Hello there, I'm Calaña</h1>
+![astronaut_minimalism_gruvbox_simple_background-2302918](https://github.com/user-attachments/assets/5c1322cd-697e-4eca-b356-ae09d69840f0)
 
 <!-- Tech stack icons -->  
-<h2>Languages and Tools</h2>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma"  alt="Prisma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</div>
+<h3>About Me</h3>
+<h2></h2>
+
+I am a cybersecurity student and web development enthusiast
+
+<br/>
 <br/>
 
+<!-- Tech stack icons -->  
+<h3>Languages and Tools</h3>
+<h2></h2>
+
+[![My Skills](https://skillicons.dev/icons?i=go,bash,git,js,html,css,react,nextjs,tailwind,postgresql,mysql,sqlite)](https://skillicons.dev)
+
+
 <!-- Stats -->
-<h2>My Stats</h2>
+<h3>My Stats</h3>
+<h2></h2>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2045%20mins-yellowgreen)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calana2&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+![Calana2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Calana2&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
