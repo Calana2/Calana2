@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=fabd2f&background=0d1011&center=true&vCenter=true&width=1000&height=100&lines=Greetings, I'm K" alt="typing_animation" />
+
 <h2></h2>
 
 <em>`7H3 8414NC3 837W33N Fr33D0M 4ND 53CUr17Y 15 4 D311C473 0N3`</em>
