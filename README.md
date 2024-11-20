@@ -17,7 +17,7 @@ I am a cybersecurity student and web development enthusiast
 <h3>Languages and Tools</h3>
 <h2></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=go,bash,git,js,html,css,react,nextjs,tailwind,postgresql,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,bash,git,ts,js,html,css,react,nextjs,tailwind,postgresql,mysql,sqlite)](https://skillicons.dev)
 
 
 <!-- Stats -->
