@@ -14,5 +14,4 @@
 <h3>My Stats</h3>
 <h2></h2>
 
-![Calana2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Calana2&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
+![Calana2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Calana2&theme=dark&show_icons=true&hide_border=true&layout=compact&lang_count=9)
