@@ -1,5 +1,5 @@
 <h2>About me</h2>
- Cybersecurity student passionate about computer security and programming. I am especially interested in binary exploitation, forensic analysis and cryptography. Complementing my skills in cybersecurity, I am developing my knowledge in programming (mainly with Go as a general purpose language, Python/Bash for scripting and Javascript for web development) and applying them to the development of security tools and task automation. I enjoy consolidating my knowledge by solving cybersecurity challenges.
+ Cybersecurity student passionate about computer security and programming.
 <br/><br/>
 
 <!-- Tech stack icons -->  
