@@ -9,6 +9,8 @@
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" height="40" alt="c logo"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Gdb_icon.png" height="50" alt="gdb logo"  />
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" height="40" alt="ghidra logo" />
 </div>
  <br/><br/>
