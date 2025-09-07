@@ -1,8 +1,7 @@
 <h2>About me</h2>
 
- + Can program in Go/Python/C/C++/Javascript
  + [CTF player (🇨🇺 Onicoders-UciTeam1)](https://github.com/Calana2/Onicoders-UciTeam1)
- + Pwner wannabe
+ + Pwner/Reverse engineer wannabe
    
 <br/><br/>
 
