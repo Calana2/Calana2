@@ -2,7 +2,7 @@
 
  + **CTF Player**, member of [🇨🇺 Onicoders-UciTeam1](https://github.com/Calana2/Onicoders-UciTeam1) and H3x3cut10n3r5
  + Currently a **cybersecurity student** at UCI
- + 1 year of self-studying Binary Explotation and Reverse Engineering
+ + Self-studying Binary Explotation and Reverse Engineering
  
    
 <br/><br/>
