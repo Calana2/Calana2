@@ -17,7 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Gdb_icon.png" height="50" width="65" alt="gdb logo"  />
-<img src="https://www.radare.org/r/img/r2logo32.png" height="70" alt="radare logo" />
+<img src="https://www.radare.org/n/r2logo.png" height="30" alt="radare logo" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" height="40" alt="ghidra logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"  />
