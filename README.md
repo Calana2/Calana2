@@ -1,8 +1,8 @@
 <h2>About me</h2>
 
- + Currently a **cybersecurity student** at UCI
- + **CTF Player**
- + Self-studying Binary Explotation and Reverse Engineering
+ + 🏛️ Currently a **cybersecurity student** at UCI
+ + 🚩 CTF Player
+ + 🕷️ Self-studying Binary Explotation (Pwn) and Reverse Engineering
  
    
 <br/><br/>
